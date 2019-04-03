@@ -15,7 +15,7 @@ I'm going to create a program to read a pdf file and extract the data from the p
 
 
 ## Youtube Presentation Link:
-
+https://youtu.be/koFgKKloAtk
 
 ## Reference:
 
